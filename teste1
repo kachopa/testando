@@ -1,0 +1,3 @@
+def teste3(por):
+
+print(f'teste3, {por}')
